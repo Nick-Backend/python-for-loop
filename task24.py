@@ -1,0 +1,13 @@
+ball_1 = int(input("1-ball: "))
+ball_2 = int(input("2-ball: "))
+ball_3 = int(input("3-ball: "))
+ball_4 = int(input("4-ball: "))
+ball_5 = int(input("5-ball: "))
+ball_6 = int(input("6-ball: "))
+ball_7 = int(input("7-ball: "))
+ball_8 = int(input("8-ball: "))
+ball_9 = int(input("9-ball: "))
+ball_10 = int(input("10-ball: "))
+
+yigindi = (ball_1 + ball_2 +  ball_3 + ball_4 + ball_5 + ball_6 + ball_7 + ball_8 + ball_9 + ball_10)
+print(yigindi)
